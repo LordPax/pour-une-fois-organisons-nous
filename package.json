@@ -1,0 +1,19 @@
+{
+  "name": "organison-nous",
+  "version": "1.0.0",
+  "description": "site pour organiser ses sorties entre potes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordPax/pour-une-fois-organisons-nous.git"
+  },
+  "author": "LordPax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordPax/pour-une-fois-organisons-nous/issues"
+  },
+  "homepage": "https://github.com/LordPax/pour-une-fois-organisons-nous#readme"
+}

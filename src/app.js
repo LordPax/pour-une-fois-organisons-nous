@@ -1,8 +1,8 @@
-const express:any = require('express')
-const app:any = express()
+const express = require('express')
+const app = express()
 
-const port:number = 8080
-const domain:string = 'http://localhost:' + port + '/'
+const port = 8080
+const domain = 'http://localhost:' + port + '/'
 
 app.set('view engine', 'pug')
 

@@ -5,9 +5,8 @@
 
 ## Installation
 ```bash
-git clone https://github.com/LordPax/pour-une-fois-organisons-nous.git
+git clone https://github.com/LordPax/pour-une-fois-organisons-nous.git; cd pour-une-fois-organisons-nous
 npm install
-./ts_compile.sh
 npm start
 ```
 
